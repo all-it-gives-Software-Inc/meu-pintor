@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">pintor</string>
+    <string name="app_name">MaterialLoginPage</string>
+    <string name="top_icon">TOP ICON</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="login">Entrar</string>
+    <string name="forgot_password">ESQUECEU SUA SENHA?</string>
+    <string name="or">OR</string>
+    <string name="google_icon">google icon</string>
+    <string name="facebook_icon">facebook icon</string>
+    <string name="new_user_register_now">Primeiro acesso? Faça seu cadastro!</string>
 </resources>
